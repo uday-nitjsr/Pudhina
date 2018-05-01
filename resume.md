@@ -1,24 +1,15 @@
 ---
 layout: page
 title: Résumé
-subtitle: An awesome person
+subtitle: Passionate about testing
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
-### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+### OVERVIEW
+``` I have been working as Automation QA for more than 4 years. Have been working on agile projects which uses scrum I have experience of creating and maintaining GUI and API automation project which involves different automation tools like Selenium, Cypress, Postman. I am well versed in testing frameworks like TestNG, mocha, Jasmine. I have been using JAVA for all of my projects but off late leaning towards Javascript ```  
 
-### PROJECTS
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
-
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
-
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
 
 ### EDUCATION
 
@@ -28,25 +19,20 @@ Graduated in Electrical and Electronic engineering with a GPA of 7.71
 
 ### EXPERIENCE
 
-**Talentica software** <span style="float: right; ">Feb, 2016 - Present</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+QA Engineer I2 **Talentica software** <span style="float: right; ">Feb, 2016 - Present</span>  
+_Serving as Automation QA. My roles involves
+- Indentifying and writing Automated test case using Selenium,rest-assured, postman, qatools, etc.
+- Maintenance of existing Automation framework.
+- Improving framework feature by integrating it with different tools.
+- Execution and reporting of Automated test case on CI tools and local._  
+  
 
  
-**Infosys Technology Ltd** <span style="float: right; ">Oct, 2013 - Feb, 2016</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
-
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+Test Engineer **Infosys Technology Ltd** <span style="float: right; ">Oct, 2013 - Feb, 2016</span>  
+_Nothing more than what is mentioned above, maybe even less automation and more manual testing_  
 
 
-### RECOGNITION & INTERESTS
+### AWARDS & RECOGNITION
 
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
+- Winner of PSTC TestAutothon 2017 organized by StepIn Forum.
+- Recieved Sppt Award in May 2016 for showing ability to adapt to a complex framework, providing performance improvement, identifying and fixing open issues with Automation.
