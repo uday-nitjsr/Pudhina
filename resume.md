@@ -20,11 +20,11 @@ Graduated in Electrical and Electronic engineering with a GPA of 7.71
 ### EXPERIENCE
 
 QA Engineer I2 **Talentica software** <span style="float: right; ">Feb, 2016 - Present</span>  
-_Serving as Automation QA. My roles involves
+Serving as Automation QA. My roles involves
 - Indentifying and writing Automated test case using Selenium,rest-assured, postman, qatools, etc.
 - Maintenance of existing Automation framework.
 - Improving framework feature by integrating it with different tools.
-- Execution and reporting of Automated test case on CI tools and local._  
+- Execution and reporting of Automated test case on CI tools and local.
   
 
  
