@@ -2,11 +2,13 @@
 layout: page
 title:  "Automation a death pit"
 subtitle: "Are you doing it the right way"
-date:   2016-05-20 21:21:21 +0530
+date:   2018-05-20 21:21:21 +0530
 categories: ["Testing"]
 ---
 
 I was recently watching this video by Allen Holub which was titled as "The death of Agile". As a software professional who started his career during the times when everyone is working in Agile methodology, or atleast aware of it. The idea of saying it is dead was appalling. At first I convinced myself that it is probably a provocative video where he is ranting why it is bad. To my surprise I was hooked after a few minutes of listening. According to Holub, most of the team dont understand the concept of agile, and only pretend to be following this methodology. He gave a indepth analysis why a big corporate is stringent towards changes hence can never call themselves agile.
+
+[![Death of Agile](https://img.youtube.com/vi/vSnCeJEka_s/0.jpg)](https://www.youtube.com/watch?v=vSnCeJEka_s "Death of agile")
 
 After listening to this video, it got me thinking that it is also true for Automation testing as well. Automation should be powerful tool which ideally should be leveraged to find bug at a very early stage and making product more robust. Instead, it is used as for verifying that application is not broken when new improvement or changes has been introduced in current feature. In my previous company the definition of automation testing is to do repetitive testing against different set of data. Automation was never seen as something which can be a part of functional testing during development.
 
