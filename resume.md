@@ -8,7 +8,7 @@ subtitle: Passionate about testing
 <br>
 
 ### OVERVIEW
-``` I have been working as Automation QA for more than 4 years. Have been working on agile projects which uses scrum I have experience of creating and maintaining GUI and API automation project which involves different automation tools like Selenium, Cypress, Postman. I am well versed in testing frameworks like TestNG, mocha, Jasmine. I have been using JAVA for all of my projects but off late leaning towards Javascript ```  
+``` I have been working as Automation QA for more than 8 years. Have been working on agile projects which uses scrum I have experience of creating and maintaining GUI and API automation project which involves different automation tools like Selenium, Cypress, Postman. I am well versed in testing frameworks like TestNG, mocha, Jasmine. I have been using JAVA for all of my projects but moved towards Javascript in late 2018```  
 
 
 ### EDUCATION
@@ -19,14 +19,14 @@ Graduated in Electrical and Electronic engineering with a GPA of 7.71
 
 ### EXPERIENCE
 
-QA Engineer I2 **Talentica software** <span style="float: right; ">Feb, 2016 - Present</span>  
+Senior Software Enginner **Wissen Technology** <span style="float: right; ">Sept, 2020 - Present</span>
 Serving as Automation QA. My roles involves
 - Indentifying and writing Automated test case using Selenium,rest-assured, postman, qatools, etc.
 - Maintenance of existing Automation framework.
 - Improving framework feature by integrating it with different tools.
 - Execution and reporting of Automated test case on CI tools and local.
-  
 
+QA Engineer I2 **Talentica software** <span style="float: right; ">Feb, 2016 - Aug, 2020</span>  
  
 Test Engineer **Infosys Technology Ltd** <span style="float: right; ">Oct, 2013 - Feb, 2016</span>  
 _Nothing more than what is mentioned above, maybe even less automation and more manual testing_  
